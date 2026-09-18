@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Bali coastline and volcano panorama</title>
+  <desc id="desc">Placeholder landscape of a volcano rising over terraced hills and the sea.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2e6b5e"/>
+      <stop offset="0.55" stop-color="#f2c98a"/>
+      <stop offset="1" stop-color="#faf7f2"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a90a6"/>
+      <stop offset="1" stop-color="#2b5b66"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <polygon points="520,470 800,180 1080,470" fill="#4a5b50"/>
+  <polygon points="560,470 800,230 1040,470" fill="#56695c"/>
+  <rect x="560" y="470" width="480" height="430" fill="#3d4a41"/>
+  <circle cx="800" cy="470" r="46" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="8"/>
+  <ellipse cx="700" cy="360" rx="60" ry="18" fill="#7a8f80"/>
+  <ellipse cx="900" cy="350" rx="48" ry="14" fill="#7a8f80"/>
+  <path d="M0 560 Q 210 505 420 560 T 840 560 T 1260 560 T 1600 560 V 900 H 0 Z" fill="url(#sea)"/>
+  <path d="M0 610 Q 260 565 520 610 T 1060 610 T 1600 610" fill="none" stroke="rgba(255,255,255,0.4)" stroke-width="3"/>
+  <circle cx="1250" cy="160" r="70" fill="#fdf2d0" opacity="0.9"/>
+  <circle cx="1250" cy="160" r="90" fill="none" stroke="rgba(253,242,208,0.6)" stroke-width="2"/>
+</svg>

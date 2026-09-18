@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" role="img" aria-labelledby="title desc">
+  <title id="title">Spacious van (Hiace)</title>
+  <desc id="desc">Placeholder silhouette of a spacious van for larger groups.</desc>
+  <rect width="400" height="220" fill="#e3f2ea"/>
+  <ellipse cx="200" cy="182" rx="160" ry="12" fill="rgba(31,42,37,0.14)"/>
+  <rect x="28" y="106" width="344" height="50" rx="14" fill="#23313a"/>
+  <path d="M78 106 L84 66 Q86 56 100 56 L312 56 Q326 56 330 68 L344 106 Z" fill="#1c2830"/>
+  <path d="M96 100 L104 70 Q106 62 112 62 L304 62 Q310 62 313 72 L322 100 Z" fill="#dfe6e4"/>
+  <circle cx="112" cy="152" r="27" fill="#1f2a25"/>
+  <circle cx="112" cy="152" r="12" fill="#cfd6d1"/>
+  <circle cx="288" cy="152" r="27" fill="#1f2a25"/>
+  <circle cx="288" cy="152" r="12" fill="#cfd6d1"/>
+  <rect x="352" y="120" width="16" height="10" rx="5" fill="#fbc85a"/>
+  <line x1="262" y1="108" x2="262" y2="150" stroke="rgba(250,250,250,0.45)" stroke-width="2"/>
+  <line x1="330" y1="108" x2="330" y2="150" stroke="rgba(250,250,250,0.35)" stroke-width="2"/>
+</svg>

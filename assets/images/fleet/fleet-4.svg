@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" role="img" aria-labelledby="title desc">
+  <title id="title">Seven-seat MPV (Innova)</title>
+  <desc id="desc">Placeholder silhouette of a popular seven-seat MPV.</desc>
+  <rect width="400" height="220" fill="#e3f2ea"/>
+  <ellipse cx="200" cy="182" rx="160" ry="12" fill="rgba(31,42,37,0.14)"/>
+  <rect x="36" y="104" width="328" height="52" rx="18" fill="#4a6f9e"/>
+  <path d="M106 104 L118 60 Q122 50 138 50 L274 50 Q290 50 296 62 L314 104 Z" fill="#3f6190"/>
+  <path d="M130 98 L138 64 Q142 56 150 56 L224 56 Q232 56 237 66 L245 98 Z" fill="#e2e8f2"/>
+  <circle cx="120" cy="152" r="28" fill="#1f2a25"/>
+  <circle cx="120" cy="152" r="13" fill="#cfd6d1"/>
+  <circle cx="280" cy="152" r="28" fill="#1f2a25"/>
+  <circle cx="280" cy="152" r="13" fill="#cfd6d1"/>
+  <rect x="344" y="118" width="17" height="10" rx="5" fill="#fbc85a"/>
+  <line x1="250" y1="106" x2="250" y2="150" stroke="rgba(245,245,245,0.55)" stroke-width="2"/>
+</svg>
