@@ -10,7 +10,7 @@
   // so only clearly marked placeholders are used.
   var WA = {
     numbers: {
-      1: "REPLACE_WITH_WHATSAPP_NUMBER_1",
+      1: "6285776619844",
       2: "REPLACE_WITH_WHATSAPP_NUMBER_2"
     },
     // Main CTAs currently route to number 1 as a temporary fallback.
